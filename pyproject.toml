@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "numisx_protocol"
+version = "0.1.0"
+description = "Stealth grid analyzer"
+authors = ["Verse x Elyon"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.32.0"
+requests = "^2.32.3"
+pandas = "^2.2.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

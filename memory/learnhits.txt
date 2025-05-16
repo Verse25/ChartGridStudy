@@ -1,26 +1,3 @@
-991
-991
-354
-354
-364
-364k
-364k
-364k
-364k
-364k
-4404
-5929
-5929
-5929
-8035
-8035
-8035
-3798
-3798
-3798
-2165
-2165
-8633
 Tennessee,Pick 4,8733,5393
 Tennessee,Pick 4,1565,6315
 Tennessee,Pick 4,4837,6614
@@ -166,3 +143,86 @@ Georgia,619,Pick 3,955
 Georgia,02013,Pick 5,29834
 Georgia,56662,Pick 5,44741
 Georgia,53102,Pick 5,80365
+Georgia,21689,Pick 5,92393
+Georgia,53102,Pick 5,80365
+Georgia,24366,Pick 5,13195
+Georgia,13195,Pick 5,21689
+Georgia,21689,Pick 5,92393
+Georgia,73272,Pick 5,13147
+Georgia,75043,Pick 5,05839
+Georgia,869,Pick 3,881
+Georgia,881,Pick 3,947
+Georgia,947,Pick 3,286
+Georgia,350,Pick 3,337
+Georgia,337,Pick 3,634
+Georgia,706,Pick 3,640
+Georgia,640,Pick 3,532
+Georgia,532,Pick 3,261
+Georgia,261,Pick 3,734
+Georgia,734,Pick 3,810
+Georgia,810,Pick 3,602
+Georgia,330,Pick 3,987
+Georgia,548,Pick 3,764
+Georgia,764,Pick 3,745
+Georgia,395,Pick 3,621
+Georgia,621,Pick 3,616
+Georgia,616,Pick 3,734
+Georgia,743,Pick 3,742
+Georgia,734,Pick 3,742
+Georgia,742,Pick 3,125
+Georgia,125,Pick 3,548
+Georgia,548,Pick 3,764
+Georgia,251,Pick 3,123
+Georgia,445,Pick 3,137
+Georgia,137,Pick 3,130
+Georgia,68747,Pick 5,68505
+Georgia,08754,Pick 5,85328
+Georgia,647,Pick 3,557
+Georgia,860,Pick 3,647
+Tennessee,860,Pick 3,647
+Tennessee,557,Pick 3,860
+Tennessee,734,Pick 3,742
+Tennessee,800,Pick 3,990
+Tennessee,668,Pick 3,439
+Tennessee,439,Pick 3,637
+Tennessee,309,Pick 3,774
+Tennessee,276,Pick 3,096
+Tennessee,115,Pick 3,309
+Tennessee,309,Pick 3,774
+Tennessee,624,Pick 3,238
+Tennessee,096,Pick 3,381
+Florida,21650,Pick 5,14270
+Florida,68032,Pick 5,45326
+Florida,04063,Pick 5,10608
+Florida,78106,Pick 5,61778
+Florida,47634,Pick 5,06141
+Florida,70103,Pick 5,80415
+Florida,79727,Pick 5,77670
+Georgia,76921,Pick 5,09640
+Georgia,68747,Pick 5,68505
+Ohio,54681,Pick 5,25022
+Ohio,77664,Pick 5,54681
+Ohio,25022,Pick 5,54681
+Ohio,25022,Pick 5,31517
+Ohio,1297,Pick 4,8788
+Ohio,0331,Pick 4,5372
+Ohio,0331,Pick 4,7461
+Ohio,6896,Pick 4,9977
+Ohio,9537,Pick 4,8897
+Ohio,1132,Pick 4,6264
+Ohio,1376,Pick 4,0533
+Ohio,0533,Pick 4,4257
+Ohio,0533,Pick 4,0605
+Ohio,1376,Pick 4,0533
+Ohio,2165,Pick 4,4575
+Ohio,8140,Pick 4,9946
+Ohio,9946,Pick 4,4575
+Ohio,3732,Pick 4,1265
+Ohio,4575,Pick 4,2706
+Ohio,2165,Pick 4,4575
+Ohio,2497,Pick 4,8633
+Ohio,8633,Pick 4,8140
+Ohio,2187,Pick 4,2033
+Ohio,2033,Pick 4,3549
+Louisiana,70893,Pick 5,31887
+Louisiana,49968,Pick 5,33835
